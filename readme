@@ -1,0 +1,3 @@
+sudo netstat -tulpn
+sudo ansible-playbook deploy.yml
+sudo apt install ansible
